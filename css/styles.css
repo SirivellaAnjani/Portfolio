@@ -96,7 +96,14 @@
 	margin-left:10px;
 }
 
-
+.about-anj {
+	display: flex;
+	text-align: justify;
+	text-justify: inter-word;
+	align-items: center;
+	margin-right:30px;
+	margin-left:30px;
+}
 
 body {
   margin: 0;

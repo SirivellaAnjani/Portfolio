@@ -118,6 +118,20 @@
 	margin-left:30px;
 }
 
+.img-anj {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cont-anj {
+	margin: 50px;
+}
 
 body {
   margin: 0;
